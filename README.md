@@ -39,7 +39,7 @@ Here are the dependencies of this projects:
 
 #### Mobile view
 
-<img src="./public/Screenshot 4.jpeg" align="top-left" alt=""/>
+<img src="./public/Screenshot 4.jpeg" height="50%" align="top-left" alt=""/>
 
 ## Available Scripts
 
