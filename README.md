@@ -31,11 +31,11 @@ Here are the dependencies of this projects:
 
 #### COVID cases, recoveries, deaths in Russia
 
-<img src="./public/Screenshot 1.png" width="100%" align="top-left" alt=""/>
+<img src="./public/Screenshot 2.png" width="100%" align="top-left" alt=""/>
 
 #### COVID cases, recoveries, deaths in Mexico
 
-<img src="./public/Screenshot 1.png" width="100%" align="top-left" alt=""/>
+<img src="./public/Screenshot 3.png" width="100%" align="top-left" alt=""/>
 
 #### Mobile view
 
