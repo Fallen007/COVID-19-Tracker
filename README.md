@@ -27,19 +27,19 @@ Here are the dependencies of this projects:
 
 #### COVID cases, recoveries, deaths worldwide
 
-<img src="./build/Screenshot 1.png" width="100%" align="top-left" alt=""/>
+<img src="./public/Screenshot 1.png" width="100%" align="top-left" alt=""/>
 
 #### COVID cases, recoveries, deaths in Russia
 
-<img src="./build/Screenshot 1.png" width="100%" align="top-left" alt=""/>
+<img src="./public/Screenshot 1.png" width="100%" align="top-left" alt=""/>
 
 #### COVID cases, recoveries, deaths in Mexico
 
-<img src="./build/Screenshot 1.png" width="100%" align="top-left" alt=""/>
+<img src="./public/Screenshot 1.png" width="100%" align="top-left" alt=""/>
 
 #### Mobile view
 
-<img src="./build/Screenshot 4.jpeg" align="top-left" alt=""/>
+<img src="./public/Screenshot 4.jpeg" align="top-left" alt=""/>
 
 ## Available Scripts
 
